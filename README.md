@@ -1,4 +1,6 @@
 # <B> Security Operations Center Homelab</B>
+![labhome](https://github.com/user-attachments/assets/6ca1d2a8-c33e-4ef5-83ec-0e3f1aae4362)
+
 
 ## <B>Overview</B>
 
